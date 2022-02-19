@@ -45,5 +45,3 @@ CREATE TABLE IF NOT EXISTS course (
     
 	
 );
-
-SELECT * FROM minor;
